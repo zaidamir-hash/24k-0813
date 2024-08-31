@@ -1,0 +1,10 @@
+START
+  INPUT Num1
+  INPUT Num2
+  INPUT Num3
+  Sum = Num1
+  Sum = Sum-(-Num2)
+  Sum = Sum-(-Num3)
+ OUTPUT Sum
+END
+  
