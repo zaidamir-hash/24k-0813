@@ -1,0 +1,14 @@
+START
+ INPUT Num1
+ INPUT Num2
+ INPUT Operator
+ IF Operator = "+"
+  Result = Num1 + Num2
+ ELSE IF 
+    Operator = "-" THEN
+    Result = Num1 - Num2
+ END IF
+
+ OUTPUT Result
+
+END
