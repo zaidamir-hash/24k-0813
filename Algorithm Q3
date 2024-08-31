@@ -1,0 +1,10 @@
+Ask the user to input two number Num1 and Num2
+Ask the user to input operator (+,-,*,/,%) Ch
+if operator = "+" which is addition Calculate Num1 + Num2
+if operator ="-" which is subtraction Calculate Num1 - Num2
+if operator = "*" which is multiplication Calculate Num1 * Num2
+if operator = "/"  which is division check if num2 is not = 0 ,then 
+Calculate Num1 / Num2
+if operator = "%" which is Modulus calculate Num1 % Num2
+
+OUPUT Result
