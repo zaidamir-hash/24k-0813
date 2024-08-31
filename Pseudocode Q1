@@ -1,0 +1,14 @@
+START
+  INPUT Num1
+  INPUT Num2
+  INPUT Num3
+
+ IF Num1 > Num2 THEN
+  MaxNum = Num1
+ ELSE
+   MaxNum = Num2
+ IF MaxNum > Num3
+ THEN
+    MaxNum = Num3
+ OUTPUT MaxNum
+END
