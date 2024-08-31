@@ -1,0 +1,5 @@
+Create an array by the name Months with 12 elements starting from index 1
+Store all 12 months in the array
+Ask the user to input a number between 1 and 12
+Check if valid number is entered
+Check number input and ouput corresponding month from the Months Array
